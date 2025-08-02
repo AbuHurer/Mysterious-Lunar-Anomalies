@@ -80,8 +80,7 @@ streamlit run app.py
 ## 📘 Data Source
 
 * 📄 [NASA R-277 Document](https://ntrs.nasa.gov/citations/19710005241)
-* 🗃️ [Cleaned Dataset on Kaggle (link your own if public)](https://www.kaggle.com/)
-
+* 🗃️ [Cleaned Dataset on Kaggle](https://www.kaggle.com/datasets/nilimajauhari/500-years-of-mysterious-lunar-anomalies)
 ---
 
 ## 📸 Screenshots
@@ -103,7 +102,7 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-**Abu Hurer**
+**Mohammed Abu Hurer**
 Engineering Student in Artificial Intelligence
 Passionate about ML, Vision, and Astronomy 🌌
 
