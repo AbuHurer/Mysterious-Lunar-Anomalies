@@ -1,0 +1,534 @@
+Year,Month,Day,Location,Description,Credit,Clean_Description,Cluster,PC1,PC2
+1540,Nov,26,Region of Calippus,Starlike appearance on dark side,Observers at Worms,starlik appear dark side,0,-0.10952767552188325,-0.04244255358560878
+1587,Mar,5,Dark Side,A sterre is sene in the bodie of the moon vpon the (blank) of Marche-whereat many men merueiled-and not without cause-for it stode directly betwene the pointes of her hornes-the mone being chaunged-not passing 5 or 6 daies before.,Anonymous,sterr sene bodi moon vpon mani men without stode directli betwen point mone pass dai,0,-0.11946954725263523,-0.07454485376270384
+1668,Nov,26,Dark Side,Bright starlike point,Several New Englanders,bright starlik point,0,0.10610984790181621,-0.07244576268358136
+1671,Nov,12,Pitatus,Small whitish cloud,D.Cassini,small whitish cloud,0,-0.11825541130963996,-0.0728749125800271
+1672,Feb,3,Mare Crisium,Nebulous appearance,D.Cassini,nebul appear,0,-0.12751287525279126,-0.06158459063114359
+1673,Oct,18,Pitatus,White spot,D.Cassini,white spot,2,0.22064070068918162,-0.13870423631844034
+1685,Dec,10,Plato,Reddish streak on crater floor seen during eclipse (lunar),Bianchini,reddish streak crater floor seen eclips,0,-0.16039460099184555,-0.145346057840563
+1706,May,12,,Three sparkling spots,,three sparkl spot,0,0.08576714283482403,-0.08006479646186797
+1715,May,3,,Lightning on the face of the moon. De Louville explained this as storms. Halley reference uses Old Style date.,Louville-Halley,lightn face de louvil explain halley refer use old style,0,-0.12127825100016551,-0.037690013486962305
+1725,Aug,16,Plato,A track of ruddy light-like a beam-crossing the middle of the obscure (shadowed) area (crater in darkness),Bianchini,track ruddi middl obscur area,1,-0.1351816688791673,-0.08045816274516635
+1738,Aug,4,,During solar eclipse-appearance like lightning on the face of the moon (Partial eclipse),Friend of Weidler,solar like lightn face moon,0,-0.10907904787995025,-0.07379346350278011
+1751,Apr,22,Plato,Yellow streak of light across crater floor while crater was in darkness,Short-Stephens-Harris,yellow streak light across crater floor crater dark,0,-0.12914304727338402,-0.13099488913298665
+1772,Oct,11,,Bright spot on disk of fully eclipsed moon,Beccarias nephew and niece,bright spot disk fulli eclips moon,2,0.24476377097646074,-0.10189142682340332
+1774,Jul,25,Mare Crisium,Four bright spots. Peculiar behaviour of terminator,Eysenhard,four bright peculiar behaviour termin,0,0.0728069238375413,-0.030391545987376593
+1778,Jun,14,NA: 1 12 min,During solar eclipse-observed spot near lunar limb almost as bright as sun,Ulloa,solar spot near lunar limb almost bright sun,0,0.14666394199096283,-0.08785026740272812
+1783,Mar,18,,Moving glows around middle of disk during lunar eclipse,Messier,move glow around middl disk lunar eclips,0,-0.1435354787542752,-0.08193961985658284
+1783,Mar,0,Near Aristarchus,Bright points seen during observation of star occultation,W.Herschel,bright point seen observ star occult,0,0.02620258388454859,-0.08674172046939278
+1783,May,4,Aristarchus-vicinity,Red spot-4th mag-diameter <3,W.Herschel-Mrs Lind,red,0,-0.1875373035722392,-0.17640180180103548
+1786,Dec,24,Aristarchus,Extraordinarily bright,Schroter,extraordinarili bright,0,0.1519522460175097,-0.024081751802585153
+1787,Apr,19,Dark side,Three volcanoes. The brightest-3573 from N limb-the other two much farther toward the center of the moon,W.Herschel,three n two much farther toward center moon,0,-0.11658185767783637,-0.058579421735860705
+1787,Apr,20,Dark side,Brightest volcano even brighter and at least 3 miles in diameter,W.Herschel,brightest volcano even brighter least mile diamet,0,-0.11894931046682866,-0.03983117839818087
+1787,May,19,Aristarchus,Extraordinarily bright,von Bruhl,extraordinarili bright,0,0.1519522460175097,-0.024081751802585153
+1788,Jan,11,Near Plato,Bright spot on dark side,Observers in Mannheim,bright spot dark side,2,0.4420120702878957,-0.04094365209208352
+1788,Mar,9,Dark side,Bright spot,Schroter,bright spot,2,0.8231119119164837,-0.10701441993494196
+1788,Mar,13,Riccioli,Bright spot,Schroter,bright spot,2,0.8231119119164837,-0.10701441993494196
+1788,Mar,13,Helicon,Lunar volcano like 6th mag star,Nouet,lunar volcano like mag star,0,-0.09577547636203393,-0.12231863093815891
+1788,Apr,9,Aristarchus: 1 hr,Extraordinarily bright,Bode,extraordinarili bright,0,0.1519522460175097,-0.024081751802585153
+1788,Apr,9,Aristarchus,Bright spot 26 N of crater rim,Schroter-Bode,bright spot n crater rim,2,0.3680445648348735,-0.11412945881689066
+1788,May,8,,Bright spots,Mechain,bright spot,2,0.8231119119164837,-0.10701441993494196
+1788,May,8,,Bright spots,Bode,bright spot,2,0.8231119119164837,-0.10701441993494196
+1788,Aug,27,,Bright spot,Schroter,bright spot,2,0.8231119119164837,-0.10701441993494196
+1788,Sep,26,N edge of Mare Crisium,Small nebulous bright spot,Schroter,small nebul bright spot,2,0.3148178363611272,-0.09964241424982805
+1788,Sep,26,118 SE of Plato: 15 min,Whitish bright spot shining somewhat hazily and 4 to 5 in diameter-5th mag-SE of Plato in bright moiuntainous region bounding Mare Imbrium,Schroter,whitish bright spot shine somewhat hazili plato bright moiuntain region bound mare imbrium,0,0.20838857981431505,-0.055815228456481375
+1788,Sep,26,Near Aristarchus: 30 min,Bright spot 26 N of main crater,Schroter,bright spot n main crater,2,0.5742060467842863,-0.14283181568025535
+1788,Dec,2,Aristarchus,Extraordinarly bright-like star,Schroter,extraordinarli star,0,-0.09006840210742416,-0.08644082059221282
+1788,Dec,11,Plato,Bright area-like thin white cloud,Schroter,bright thin white cloud,0,0.05626861046756891,-0.06290701617148356
+1789,Jan,10,,Lunar volcano,Seyffer,lunar volcano,0,-0.13769543660045155,-0.07105308119467879
+1789,Mar,29,Grimaldi-and near Riccioli,Two flickering spots on E edge of Grimaldi-and near Riccioli on dark side of moon a bright spot,Schroter,two flicker spot e edg near riccioli dark side moon bright spot,2,0.2592656788963326,-0.08916715555403924
+1789,Mar,29,Aristarchus,Nebulous bright area,Schroter,nebul bright area,1,0.10532668691370987,-0.06164070598745885
+1789,Mar,0,Near Aristarchus,Brilliant spots near Aristarchus: luminous spots on dark side,Bode,brilliant spot near lumin spot dark side,2,0.21835659192948126,-0.1015179865826301
+1789,Apr,0,Near Aristarchus,Brilliant spots near Aristarchus: luminous spots on dark side,Bode,brilliant spot near lumin spot dark side,2,0.21835659192948126,-0.1015179865826301
+1789,May,0,Near Aristarchus,Brilliant spots near Aristarchus: luminous spots on dark side,Bode,brilliant spot near lumin spot dark side,2,0.21835659192948126,-0.1015179865826301
+1789,Sep,26,Mont Blanc: 15 min,Small speck of light at foot of mountain-like 5th mag star,Schroter,small speck light foot mag star,0,-0.09480899897723254,-0.1267406335070015
+1790,Jan,17,Aristarchus region,Small-hazy spot of light,Schroter,spot light,2,0.26217566963535516,-0.21639781624744817
+1790,Feb,15,Aristarchus region,Small-hazy spot of light,Schroter,spot light,2,0.26217566963535516,-0.21639781624744817
+1790,Mar,19,Aristarchus region,Small-hazy spot of light,Schroter,spot light,2,0.26217566963535516,-0.21639781624744817
+1790,Oct,22,,During total eclipse-Herschel saw at least 150 small-round-bright-red luminous points. (Mid-eclipse-lunar-Oct 23-00h41m.),W.Herschel,total saw least lumin,0,-0.1211518365105881,-0.04945538742798586
+1792,Feb,24,,Cusps of moon showed signs of atmosphere,Schroter,cusp moon show sign atmospher,0,-0.12800677552795928,-0.05530699091646727
+1794,Mar,7,Dark side,Appearance of light like a star seen in dark part of the moon,W.Wilkins-Stretton,appear light like star seen dark part moon,0,-0.10357732152893989,-0.12988888991046954
+1797,Mar,2,Promontorium Heraclides-vicinity,Observations of a volcano on the moon,Caroché,observ volcano moon,0,-0.13067574778727933,-0.07320226731235774
+1797,Jul,2,Mare Vaporum,Vapors resembling mountain,Schroter-Olber,vapor resembl mountain,0,-0.12958342746471713,-0.042893072526994584
+1820,Oct,17,S of Sinus Iridum,Brilliant spots in Mare Imbrium S of Sinus Iridum,Luthmer,brilliant spot mare imbrium sinu iridum,0,0.06279337211097186,-0.0798703408021521
+1821,Feb,5,Aristarchus-vicinity,Luminous appearance on dark side: 6th to 7th mag-3 to 4 diameter,Kater-Olbers-Browne,lumin appear dark diamet,0,-0.1048239930485417,-0.03084083804376224
+1821,Apr,7,Posidonius,Appeared without shadow,Gruithuisen,appear without shadow,0,-0.15491274776910133,-0.07671712840180897
+1821,May,4,Aristarchus-vicinity,Bright spot on dark side-<1 diameter,Ward-Baily,bright spot dark diamet,2,0.3576428075772441,-0.032893904610838735
+1821,Jul,25,Dark side,Brilliant flashing spots,Gruithuisen,brilliant flash spot,0,0.10900350876181963,-0.09558691743398409
+1821,Nov,28,Dark side,Variable bright spot like 6th mag star,Fallows,variabl bright spot like mag star,2,0.24064732009666084,-0.12567853056453226
+1822,Jan,27,Aristarchus-vicinity,Bright spot like 8th mag star,F.G.W. Struve,bright spot like mag star,2,0.32638657531675364,-0.1418625884111495
+1822,Jun,22,Aristarchus,Lunar volcano,Ruppell,lunar volcano,0,-0.13769543660045155,-0.07105308119467879
+1824,May,1,Near Aristarchus,Blinking light-9th to 10th mag on dark side,Gobel,blink mag dark side,0,-0.09023331329497807,-0.050976825501183244
+1824,Oct,18,Aristarchus-vicinity,Mingling of all kinds of colors in small spots in the W and NW of Aristarchus,Gruithuisen,mingl kind color small spot w nw aristarchu,0,0.03791262565176362,-0.1016575276423084
+1824,Oct,20,Dark side-Mare Nubium,Bright area 100 x 20 km,Gruithuisen,bright area x km,1,0.21641864344111458,-0.061886079159363165
+1824,Dec,8,Plato,Bright fleck in SE part of crater,Gruithuisen,bright fleck se part crater,0,0.0701887829659015,-0.060718859999527565
+1825,Apr,8,Plato,W part of crater brighter than E part,Gruithuisen,w part crater brighter e part,0,-0.12207277711429525,-0.06758321758318453
+1825,Apr,22,Aristarchus and vicinity,Periodic illumination,Argelander-Gobel,period illumin,0,-0.12174787607817147,-0.03963864508782319
+1825,Dec,1,Ptolemaeus,Bright spot,Schwabe,bright spot,2,0.8231119119164837,-0.10701441993494196
+1826,Apr,12,Mare Crisium,Black moving haze or cloud,Emmett,black move haze cloud,0,-0.1262331277756101,-0.054919056172435414
+1826,Apr,13,Mare Crisium: 1 hr,Cloud less intense,Emmett,cloud less intens,0,-0.11839230871066854,-0.010628904839702193
+1832,Jul,4,Mare Crisium,Speckled with minute dots and streaks of light,T.W. Webb,speckl minut dot streak light,0,-0.13334467889237786,-0.11595918662816793
+1832,Dec,25,Aristarchus-vicinity,Bright spot,C.P. Smyth,bright spot,2,0.8231119119164837,-0.10701441993494196
+1835,Dec,22,Near Aristarchus,Bright spot-9th to 10th mag,C.P. Smyth,bright mag,0,0.21818474307191943,-0.04658134962322192
+1836,Feb,13,Messier,Two straight lines of light: a band between covered with luminous points,Gruithuisen,two straight line band cover lumin point,0,-0.12590631978268063,-0.06746422688531688
+1839,Jun,24,Grimaldi,Smoky-gray mist,Gruithuisen,mist,0,-0.13285016107616385,-0.045442657783722196
+1839,Jul,7,South Pole,Twilight,Gruithuisen,twilight,0,-0.12182008228751,-0.03680740261657953
+1839,Jul,19,Schroter,Dark mist,Gruithuisen,dark mist,0,-0.10200557000024905,0.003659891904536134
+1842,Jul,8,,During solar eclipse-moons disk occasionally crossed by bright streaks,,solar disk occasion cross bright streak,0,0.05161020503932342,-0.053089068162585025
+1843,Jul,4,Peak S of Alps,On terminator saw an unusually bright spot that glowed like a fixed star,Gerling,termin saw unusu bright spot glow like fix star,0,0.1437713849072646,-0.128472101467989
+1844,Apr,25,SW of Pico,A bluish glimmering patch of light-not quite within the night side of the moon,J.Schmidt,bluish glimmer patch quit within night side moon,0,-0.13725704285840776,-0.06994295181315133
+1847,Mar,18,Dark side,Large luminous spots on dark side,Rankin-Chevalier,larg lumin spot dark side,0,0.09213019545504275,-0.06410541080731669
+1847,Dec,11,Teneriffe Mts.,A bright spot about 14-ang diam of Saturn was perceived which-though it varied in intensity like an intermittent light-was at all times visible (dark side),Hodgson,bright spot diam saturn perceiv vari intens like intermitt time visibl,0,0.14160675808233067,-0.0589634273238948
+1848,Mar,19,,During eclipse rapid changes in .... (wording illegible),Gorjan,eclips rapid chang,0,-0.13053045265247032,-0.059100682833329414
+1849,Feb,11,Posidonius,Without normal shadow,J.Schmidt,without normal shadow,0,-0.14293208219086015,-0.06005254739647112
+1854,Dec,27,Teneriffe Mts. (near Plato): 5 hr,Two luminous fiery spots on bright side. ... an appearance I had never seen before on the surface of the moon though I have observed her often these last 40 years .... It appeared to me from the brightness of the light and the contrast of colour to be two active volcanoes or 2 mouth of one in action.,Hart,two lumin fieri spot bright appear never seen surfac moon though observ often last year appear bright light contrast colour two activ volcano mouth one,0,0.098671549670173,-0.12213115728988706
+1855,Jun,20,,Traces of twilight seen. Webb gives low weight to observation for want of better optical means.,Webb,trace twilight webb give low weight observ want better optic,0,-0.13000846496949556,-0.051080378086740395
+1862,Jun,12,,During lunar eclipse-the E IAU:W side dark brick red and something seemed to oscillate before it. At the mid-eclipse on the S side-a very small meniscus was seen nearly the color of the uneclipsed moon.,,lunar e side dark brick red someth seem oscil small meniscu seen nearli color uneclips,0,-0.14214142175332273,-0.10709362369517274
+1864,May,15,Mare Crisium-E of Picard,Bright cloud,Ingall,bright cloud,0,0.19040006633234907,-0.03960958562154439
+1865,Jan,1,SE of Plato: 30 min,Bright spot like 4th mag star slightly out of focus. Bright speck remained changeless for 30 min-and its light was steady.,Grover,bright spot like mag star slightli bright speck remain changeless light,2,0.3457665364483376,-0.15230807567459748
+1865,Apr,10,Mare Crisium-E of Picard,Point of light like star. Whole of Mare Crisium intersected with bright veins-mixed with bright spots of light. Aperture 4-12 in.: 4 hr before full moon,Ingall,point light like whole mare crisium intersect bright bright spot apertur hr full moon,2,0.22539398896607002,-0.09877282685335295
+1865,Sep,5,Mare Crisium-E of Picard,Point of light like star-with misty cloud,Ingall,point light like misti cloud,0,-0.11933460482532021,-0.1410163708118974
+1865,Nov,24,Carlini: 1 hr 30 min,Dark side-distinct bright speck like 8th mag star,Williams and two others,dark bright speck like mag star,0,0.09656389329981423,-0.06512097727356787
+1866,Jun,10,Aristarchus,Starlike light,Tempel,starlik light,0,-0.14326529056136428,-0.13812094398921712
+1866,Jun,14,Aristarchus-vicinity,Reddish-yellow,Tempel,,0,-0.11410029397912765,-0.03180090444102367
+1867,Apr,9,Aristarchus-vicinity: 1 hr 30 min,Bright spot on dark side-7th mag-becoming fainter after 20h15m UT,Elger,bright spot dark fainter ut,2,0.33487379531648215,-0.03018851661764548
+1867,Apr,12,Aristarchus-vicinity: 1 hr,Bright spot on dark side-7th mag.,Elger,bright spot dark,2,0.6018427346212957,-0.02578354738989443
+1867,May,6,Aristarchus: at least several hours each night,Left side of crater-very bright luminous point-appearing like a volcano,Flammarion,left side bright lumin like volcano,0,0.07344395899968387,-0.08376487293753603
+1867,May,7,Aristarchus-vicinity,Reddish-yellow-beacon-like light,Tempel,light,0,-0.13221091028184456,-0.16648922798036242
+1867,Jun,10,Sulpicius Gallus,Three blackish spots,Dawes,three blackish spot,0,0.16332407204965213,-0.09482055479856799
+1870,May,13,Plato,Bright spots-extraordinary display,Pratt-Elger,bright display,2,0.5677595702189234,-0.001642563497034442
+1872,Jul,16,Plato,NE portion of floor hazy,Pratt,ne portion floor hazi,0,-0.14153058714673292,-0.05213213389718678
+1873,Jan,4,Kant,Luminous purplish vapors,Trouvelot,lumin purplish vapor,0,-0.12316102170503351,-0.052595228637139536
+1873,Apr,10,Plato,Under high sun-two faint clouds in W part of crater,Schmidt,high faint cloud w part crater,0,-0.1365329926942187,-0.0968813994360241
+1873,Nov,1,Plato,Unusual appearance,Pratt,unusu appear,0,-0.14456872392885917,-0.06989620185787662
+1874,Jan,1,Plato,Unusual appearance,Pratt,unusu appear,0,-0.14456872392885917,-0.06989620185787662
+1877,Feb,20,Eudoxus: 1 hr,Fine line of light like luminous cable drawn W to E across crater,Trouvelot,fine line light like lumin cabl drawn w e across crater,0,-0.11890259662629409,-0.14743996080647775
+1877,Feb,27,,Lunar eclipse. Flickering light on lunar surface,Dorna,lunar flicker light lunar surfac,0,-0.1391280006728605,-0.1020635470449024
+1877,Mar,17,,Moons horns showed traces of atmosphere. Moon 2d16h old (2.75 in. reflector),Dennett,moon horn show trace moon old,0,-0.1273536486965651,-0.06142657564159023
+1877,Mar,21,Proclus,Brilliant illumination,Barrett,brilliant illumin,0,-0.1277037825470999,-0.04522739240599639
+1877,May,15,E of Picard,Bright spot,,bright spot,2,0.8231119119164837,-0.10701441993494196
+1877,Jun,17,Bessel,Minute point of light (seen with 2.75 in. reflector),Dennett,minut point light,0,-0.12553008987557684,-0.11877241359625974
+1877,Jul,29,Plato,S of center of crater-bright streak-disappeared at 2:30am,Gray,center,0,-0.11930952561221259,-0.035285219910372805
+1878,Feb,2,At limb,Changes in spectrum during solar eclipse suggesting lunar atmosphere,Observers at Melbourne-Australia,chang spectrum solar eclips suggest lunar atmospher,0,-0.13990235680241717,-0.06885276278928149
+1878,Mar,10,Mare Crisium,White patch E of Picard badly defined,Noble,white patch e picard badli defin,0,-0.1445185987803362,-0.09462271308613691
+1878,Oct,5,Plato,Faint bright shimmer like thin white cloud,Klein,faint bright shimmer like thin white cloud,0,0.03034626366736271,-0.09264625467693836
+1878,Oct,21,3 hr,Half of moons terminator obliterated,Hirst,half moon termin obliter,0,-0.12180958902797921,-0.03839165519557775
+1878,Nov,1,Messier,Obscuration of Messier,Klein,obscur messier,1,-0.14311425519258925,-0.07089350504824946
+1878,Nov,9,Plato,Faint but unmistakable white cloud-not seen before,Klein,faint unmistak white seen,0,-0.13645338233727283,-0.07909910359370989
+1878,Dec,4,Agrippa-Kleins Object and the oval spot nearby,Odd misty look as if vapour were in or about them.,Capron,odd misti look vapour,0,-0.1228222719895536,-0.03558330256035562
+1880,Jan,18,Whole of Mare Nectaris,Foggy. Fog extended into the floor of Fracastorius. Gruithuisen said that the seeing was unsatisfactory.,Gaudibert,fog extend floor gruithuisen said see,0,-0.13873990439907133,-0.062306819995693534
+1881,Feb,3,Aristarchus (on dark side-limb area),Very bright (8.0 mag star) with pulsations,Gamma,bright mag pulsat,0,0.10384949732310444,-0.04432902198436484
+1881,Jul,4,,Two pyramidal luminous protuberances appeared on the moons limb .... These points were a little darker than the rest of the moons face. They slowly faded away ....,Several observers,two pyramid lumin protuber appear moon limb point littl darker rest moon slowli fade away,0,-0.12568108064363903,-0.08944801539270364
+1881,Aug,6,Aristarchus region,Whole region between Aristarchus and Herodotus and S part of Great Rille (Schroters Valley) appeared in strong violet light as if covered with fog,Klein,whole region aristarchu herodotu part great rill appear strong violet light cover fog,0,-0.13887416147260886,0.12633702307788172
+1881,Dec,5,Aristarchus,During eclipse-Aristarchus was a white spot in the coppery disk and continued so. (Lunar eclipse),S.J. Johnson,white spot copperi disk continu,0,0.03248912526464752,-0.0826227546456387
+1882,Jan,29,Eudoxus: 30 min,Unusual shadow,,unusu shadow,0,-0.15610765109907035,-0.07809383381032875
+1882,Feb,27,Eudoxus: 1 hr-and 15 min,Unusual shadow (on,Feb,unusu shadow,0,-0.15610765109907035,-0.07809383381032875
+1882,Mar,27,Plato,Floor glowed with milky light,A.S. Williams,floor glow milki light,0,-0.17671518402220585,-0.18443200017157452
+1882,Apr,24,Near Godin and Agrippa,Shadows blurred and oscillating. Shadows in Aristoteles steady. Intervals between obscurations-10 min,Ridd,shadow blur shadow aristotel interv min,0,-0.1635705463227203,-0.07724705521834456
+1882,May,19,Just E of Mare Crisium against Prom. Agarum,Cloud-not less than 100 mi x 40 or 50 mi: no trace seen on,May,less mi x trace seen,0,-0.1304253513067822,-0.05240676343269993
+1882,Jul,17,Just E of Mare Crisium-against Prom. Agarum,Feathery mist or cloud,J.G. Jackson,featheri mist cloud,0,-0.13758673321175022,-0.05813791357303697
+1882,Nov,7,Dark limb,Line of light around dark limb-attributed to atmosphere-well seen-equally bright throughout length. Age of moon 26.5 days,Hopkins,line light around dark bright throughout age moon day,0,0.007156916103667306,-0.05499148521637367
+1883,Mar,12,Dark limb,Line of light (see 1882,Nov,line light,0,-0.133581885818428,-0.1222701423861036
+1883,Mar,12,Taruntius and environs,Peculiar blurred appearance. Unmistakable variations in the sharpness of the shadows of the ring plain,Davies,peculiar blur unmistak variat sharp shadow ring plain,0,-0.13562698857035474,-0.05356255809341338
+1883,Nov,5,Aristarchus,Very bright (7.0-8.0 mag star),R,bright mag,0,0.21818474307191943,-0.04658134962322192
+1884,Feb,5,Kepler,Illumination in Kepler,Morales,illumin kepler,0,-0.12326270224387605,-0.04083332044255125
+1884,Oct,4,Tycho,During eclipse-bright spot like a star of the 2nd mag. (Lunar eclipse),Parsehian,spot like star,2,0.18410381803252732,-0.1609870881948833
+1884,Nov,29,Aristarchus: 2 hr,Nebulous at center: elsewhere features well defined,Hislop,nebul elsewher featur well defin,0,-0.1207144817968382,-0.04062390573591095
+1885,Feb,19,Small crater near Hercules,Small crater was dull red with vivid contrast,Gray,small crater dull red vivid contrast,0,-0.13386015973230747,-0.12843216492063958
+1885,Feb,21,Cassini,Red patches,Knopp,red patch,0,-0.2014471612381245,-0.20043211011800147
+1885,Jun,10,Aristarchus,Starlike light,Tempel,starlik light,0,-0.14326529056136428,-0.13812094398921712
+1886,Sep,6,Plato,Streak of light on dark floor of crater in shadow (67 mm refl.),Valderama,streak light dark floor crater shadow mm,0,-0.14728526540100217,-0.14916127728237102
+1887,Feb,1,Plato,Appearance of light in crater,Kruger,appear light crater,0,-0.14048147299624328,-0.16537529078028818
+1887,Feb,2,La Hire,Intense yellow streak that cast shadows around neighbouring features,Klein,intens yellow streak cast shadow around neighbour featur,0,-0.1331984967897254,-0.03548806718690497
+1888,Jul,15,S edge of Alps on dark side of moon,Lunar volcano: 1 mag star. Yellow light tinged with red from refractors secondary spectrum,Holden,lunar mag yellow light ting red refractor secondari spectrum,0,-0.14886962057135147,-0.13893115706631876
+1888,Nov,23,45 min,A triangular patch of light (seen with 3 12 in. refractor and 180 x mag),von Speissen and others,triangular patch light refractor x,0,-0.15135859929480872,-0.14437943793866725
+1889,Mar,30,Copernicus,Black spot,Gaudibert,black spot,0,0.16702757381493416,-0.09666244275544617
+1889,May,11,Gassendi,Black spot on rim,,black spot rim,0,0.10363693981238935,-0.08615610618426973
+1889,Jun,6,Plato B and D (Schmidts designation),Two extremely bright spots (8 in. refractor),Evon Lade,two extrem bright spot,2,0.43488977098393655,-0.08976442665515146
+1889,Jul,12,Aristarchus,During lunar eclipse-brilliance in surrounding gloom was striking,Krueger,lunar surround gloom strike,0,-0.13157295668323502,-0.05100318200779768
+1889,Sep,3,Alpetragius: 30 min,Central peak-its shadow and all the floor seem to be seen through haze.,Barnard,central shadow floor seem seen,0,-0.16331243316509422,-0.09754188249115278
+1889,Sep,13,Plinius,White spot over central peak,Thury,white spot central peak,0,0.07390148155354435,-0.10683501454625234
+1889,Oct,3,Alpetragius,Hazy,Barnard,hazi,0,-0.128373601451533,-0.04656830174215801
+1890,Oct,3,Posidonius,Unusual shadow,Meller,unusu shadow,0,-0.15610765109907035,-0.07809383381032875
+1891,May,23,Aristarchus region,Lunar eclipse-half hour before end of totality-Aristarchus and region immediately N of it became conspicuous and increased in brightness from that time on,W.E. Jackson,lunar hour end region immedi n becam conspicu increas bright time,0,-0.02265891850171236,-0.046213917561567106
+1891,Sep,16,Schroters Valley,Dense clouds of white vapour were apparently arising from its bottom and pouring over its SE IAU:SW wall in the direction of Herodotus.,W.H. Pickering,dens cloud white vapour appar aris bottom pour se wall direct,0,-0.07009033312895065,0.005670481577024335
+1891,Sep,17,Schroters Valley,Apparent volcanic activity,W.H. Pickering,appar volcan activ,0,-0.14778734259635312,-0.056047865375337576
+1891,Oct,14,Schroters Valley,Apparent volcanic activity,W.H. Pickering,appar volcan activ,0,-0.14778734259635312,-0.056047865375337576
+1891,Nov,7,Aristarchus,Very distinct luminous point,dAdjuda,distinct lumin point,0,-0.11617045256850633,-0.07103074486796127
+1892,Mar,31,Thales,Pale luminous haze,Barnard,pale lumin haze,0,-0.12946160867378279,0.037141972661126656
+1892,May,10,Schroters Valley,Apparent volcanic activity,W.H. Pickering,appar volcan activ,0,-0.14778734259635312,-0.056047865375337576
+1892,May,11,,During partial lunar eclipse-extension of earths shadow beyond the cusps,,partial lunar earth shadow beyond cusp,0,-0.14586006243231492,-0.06968184128144321
+1893,Jan,30,Schroters Valley,Apparent volcanic activity,W.H. Pickering,appar volcan activ,0,-0.14778734259635312,-0.056047865375337576
+1893,Apr,1,,Shaft of light,de Moraes,shaft light,0,-0.12892985288408987,-0.10728423293092153
+1894,Feb,23,Henke (now Daniell) and N wall of Posidonius,Strong brownish-red coppery hue in Henke and also on N wall of Posidonius,Krieger,strong copperi hue henk also n wall posidoniu,0,-0.05522629886202853,0.17538639144822504
+1895,Mar,11,,During lunar eclipse-very striking color in SE quadrant,Foulkes,lunar strike color se quadrant,0,-0.1470888580321178,-0.05537631454972413
+1895,Sep,25,,Shaft of light,Gaboreau,shaft light,0,-0.12892985288408987,-0.10728423293092153
+1897,Jun,14,Schroters Valley,Apparent volcanic activity,W.H. Pickering,appar volcan activ,0,-0.14778734259635312,-0.056047865375337576
+1897,Sep,21,Aristarchus,Glimmering streaks,Molesworth,glimmer streak,0,-0.12631213572701064,-0.05845958422865592
+1897,Oct,8,Schroters Valley,Apparent volcanic activity,W.H. Pickering,appar volcan activ,0,-0.14778734259635312,-0.056047865375337576
+1897,Dec,9,Wm. Humboldt,Light chocolate border to shadow on E wall,Goodacre,light chocol border shadow e wall,0,-0.018521788757425026,0.0003093579391529
+1898,Jan,8,Tycho region,About mid-eclipse-shadow so dense that details of surface disappeared entirely-except that bright ray extending SSW from Tycho was clearly visible throughout its whole extent and continued so throughout eclipse. (Lunar eclipse),Chevremont,dens detail surfac disappear bright ray extend ssw tycho clearli visibl throughout whole extent continu throughout,0,-0.048935138012954654,-0.01960925375181941
+1898,Apr,6,Schroters Valley,Apparent volcanic activity,W.H. Pickering,appar volcan activ,0,-0.14778734259635312,-0.056047865375337576
+1898,Jul,3,Proclus,Half hour after mid-eclipse-the crater shone with reddish light in shadow. (Lunar Eclipse),Moye,half hour crater shone reddish light,0,-0.13727003015620623,-0.0999061120448168
+1898,Dec,27,Aristarchus,During eclipse-Aristarchus brilliant (Lunar eclipse),Stuyvaert,brilliant,0,-0.12644416229812205,-0.04360997809220598
+1901,Oct,25,Marius,A number of light streaks noticed on the crater floor. (Usually none are seen),Bolton,number light streak notic crater none,0,-0.13339871526179206,-0.1429837865911772
+1902,Aug,13,Near Lambert,(1) Brilliant starlike point: (2) completely round bright area,on dark side of moons terminator,brilliant starlik complet round bright area,1,0.024490754574908038,-0.07059201119111777
+1902,Oct,16,Theaetetus,Cloud near Theaetetus,Charbonneaux,cloud near theaetetu,0,-0.12407337030182093,-0.0683436559377277
+1903,Mar,1,Aristarchus,Intermittent light like a little star,Rey,intermitt light like littl star,0,-0.10241620976848001,-0.13230986552610072
+1903,Mar,3,Aristarchus,Intermittent light like a little star,Gheury,intermitt light like littl star,0,-0.10241620976848001,-0.13230986552610072
+1904,Jul,31,Plato,Bright hazy object 2 diameter on crater floor,Pickering,bright hazi object diamet crater floor,0,0.03203117834016184,-0.09506122049837118
+1904,Oct,2,Plato,Total or partial obscuration of crater floor,Elger,total partial obscur crater floor,1,-0.14871260293598185,-0.10751878933902029
+1905,Feb,19,Aristarchus,During eclipse,bright spot shining in the dark as a little star. (Lunar eclipse),eclips,0,-0.13008484586947883,-0.06859587501978248
+1905,Aug,15,Tycho,Visible,even brilliant during eclipse,visibl,0,-0.11596167371941475,-0.04066770394736254
+1906,Aug,4,Aristarchus,Shone conspicuously during lunar eclipse,Ward,shone conspicu lunar eclips,0,-0.13589527753233627,-0.07051565038209931
+1912,Apr,1,Tycho,Visible like a bright spot standing out in the dark slate-gray shadow. Only Tycho was seen during the lunar eclipse,LeRoy,visibl like bright spot stand dark tycho seen lunar eclips,0,0.1509185518789743,-0.09292552568295236
+1912,May,19,Dark side,Small red glowing area noticed on shadow side of moon,Valier,small red glow area notic shadow side moon,1,-0.15989779918817934,-0.16807450160670787
+1912,May,20,Leibnitz Mts. area,Glowing line of light into dark side,Franks,glow line light dark side,0,-0.11933086508910297,-0.0998936591764329
+1912,Sep,25,Pico B,Haze spreading from W end of crater,Pickering,haze spread w end crater,0,-0.1210034890509551,-0.06530096210223281
+1913,Mar,22,,During eclipse totality,there remained visible to the NW only a luminous point not much larger than the planet Mars and of the same color (Lunar eclipse),eclips total,0,-0.1297374252172174,-0.05994142289986439
+1913,Jun,15,South,Distinct small reddish spot,Maw,distinct small reddish spot,0,0.06070443639351963,-0.11002289757944389
+1915,Jan,31,Littrow,Seven white spots arranged like a Greek gamma,Burgess,seven white spot arrang like greek gamma,2,0.16457238541811905,-0.1558756734123538
+1915,Apr,21,S of Posidonius,Noticed special occurrence S of large circle Posidonius which he took as evidence of water vapor,Houdard,notic special occurr larg circl posidoniu took evid water vapor,0,-0.12548268996799933,-0.04495812215252668
+1915,Apr,23,Clavius,Narrow,straight beam of light from crater A to crater B,narrow,0,-0.11410029397912765,-0.03180090444102367
+1915,Dec,11,Mare Crisium,Particularly bright spot like star on N shore,Thomas,particularli bright spot like star n shore,2,0.39937699291840867,-0.14287508329089357
+1916,Oct,10,Plato,Pickerings craterlet No.59 involved in reddish shadow and disappeared. Usually distinctly seen under similar illumination.,Maggini,picker craterlet involv reddish shadow usual distinctli seen similar,0,-0.14625599732287284,-0.07315404999652772
+1917,Jan,8,Dionysius,Point on rim of crater shone like a small star for sometime after entering the eclipse shadow (Lunar eclipse),W.F.A. Ellison,point rim crater shone like small star sometim enter eclips shadow,0,-0.11523389141378101,-0.14995874153586908
+1919,Nov,7,Tycho,vicinity,Long ray in direction of Longomontanus remained visible glowing in weak gray-green light during whole eclipse (until clouds stopped observation) (Lunar eclipse),vicin,0,-0.11410029397912765,-0.03180090444102367
+1922,Nov,28,La Hire: 20 min,Shadow cut through by white streak,H.P. Wilkins,shadow cut white streak,0,-0.1516012267619202,-0.1062870399739827
+1927,May,12,Peirce A (Wilkins Graham),Complete obscuration of crater,H.P. Wilkins,complet obscur crater,1,-0.13200555709822098,-0.08985347485374728
+1927,Dec,23,Peirce A (Wilkins Graham),Invisible,H.P. Wilkins,invis,0,-0.12249067706974735,-0.038518773564161196
+1931,Feb,22,Aristarchus,Reddish-yellow,Joulia,,0,-0.11410029397912765,-0.03180090444102367
+1931,Mar,27,Tycho,Central mountain gray although crater interior was in full shadow,Barker,central mountain gray although crater interior full shadow,0,-0.14219471111838344,-0.07629117597886684
+1932,Apr,15,Plato,Sudden appearance of white spot like cloud,Goddard and friend,sudden appear white spot like cloud,0,0.03271285650831734,-0.13176717796792498
+1933,Mar,30,Aristarchus region,White,Douillet,white,0,-0.12384953704678901,-0.07794217979468236
+1933,Sep,1,Neighbourhood of Pico,and Pico B,Haze observed,pico b,0,-0.1214532955254451,-0.03584541940016018
+1933,Oct,1,Neighbourhood of Pico,and Pico B,Haze observed,pico b,0,-0.1214532955254451,-0.03584541940016018
+1936,May,4,Eratosthenes,Detected small bright spots on crater floor,Martz,detect small bright spot crater floor,2,0.30693935544821077,-0.16623482215404983
+1936,Oct,4,Eratosthenes,Many small bright spots on crater floor,some of which Martz detected,mani small bright spot crater floor,2,0.2136189455030519,-0.14079852508203614
+1936,Oct,25,Eratosthenes,Small bright spots on floor of crater,Haas,small bright spot floor crater,2,0.30693935544821077,-0.16623482215404983
+1937,Feb,14,Cassini,Bright spot,Andrenko,bright spot,2,0.8231119119164837,-0.10701441993494196
+1937,Sep,17,Aristarchus,Bright streak,H.M. Johnson,bright streak,0,0.19065407306451776,-0.05242362549723387
+1937,Sep,28,Riccioli,Color of dark area was deep purple: next night same with vivid hue,Haas,color dark area deep next night vivid hue,1,-0.12460150848151719,-0.006770047666030348
+1937,Oct,26,Alphonsus,Herschel,and Ptolemaeus,herschel,0,-0.11410029397912765,-0.03180090444102367
+1937,Dec,12,Plato,Strongly marked streak of orange-brown on E wall,Barker,strongli mark streak e wall,0,-0.020298016231544903,0.05228722464102722
+1938,Jan,16,Plato,Brownish gold-veined surface of color irregularly laid on smooth floor of crater,Barker,brownish surfac color irregularli laid smooth floor crater,0,-0.15040686985794524,-0.09047889023221377
+1938,Feb,14,Plato,Golden-brown spot on E wall very prominent,with a yellowish glow without a definite boundary spreading over floor of crater,spot e wall promin,2,0.4997280329485491,0.09309670275892563
+1939,Feb,23,Aristarchus,Bright spot,Andrenko,bright spot,2,0.8231119119164837,-0.10701441993494196
+1939,Mar,29,Wilkins,Wilkins 1954,,wilkin,0,-0.11410029397912765,-0.03180090444102367
+1939,Aug,2,Schickard,Dense fog,Moore,dens fog,0,-0.1229930709752502,-0.03413692154873763
+1939,Oct,19,Macrobius,Floor of crater reddish-brown,a hue ordinarily absent,floor crater,0,-0.15053669389815308,-0.14269052865733722
+1939,Dec,27,Aristarchus,Slight bluish tinge on the still brilliant W wall,Barcroft,slight bluish ting still brilliant w wall,0,-0.041871889887032054,0.06912357032143175
+1940,May,20,Schickard,Whitish obscuration: less dense than 1939,Aug,whitish less dens,0,-0.12492257766342511,-0.04015274439926895
+1940,Jun,14,Plato,Two hazy streaks of medium intensity,much complex detail,two hazi streak medium intens,0,-0.11745984371240797,-0.03405082700005868
+1940,Jul,14,Tycho,Curious faint milky-looking luminosity seen. Luminous marks in shadow were ragged-edged and irregularly shaped,Haas,curiou faint luminos lumin mark shadow irregularli shape,0,-0.14149793032172625,-0.06692809097177495
+1940,Oct,19,Lichtenberg area,Pronounced reddish-brown or orange color around area. Found color less marked next night,and slight by,pronounc orang color around found color less mark next night,0,-0.14776843423160607,-0.04058275663006685
+1940,Oct,29,Cusps,Prolongation of N horn by 15 degrees,Vaughan,prolong n horn degre,0,-0.1240667440975652,-0.04103146802598737
+1940,Dec,2,Aristarchus,Distinguished crater in dark hemisphere as a bright spot,Vaughan,distinguish crater dark hemispher bright spot,2,0.4803826535869432,-0.07250807926345544
+1940,Dec,9,Tycho,Found some luminosity on W crater rim of W outer slope,Barcroft,found luminos w crater rim w outer slope,0,-0.11826195134390996,-0.05919725479102043
+1940,Dec,25,Cusps,Each horn appeared prolonged by about 10 degrees,Haas,horn appear prolong degre,0,-0.13283772326139134,-0.05276860121627688
+1941,Jan,6,Arzachel,Anomalous shadow,Barcroft,anomal shadow,0,-0.15255496613581696,-0.0701570463968254
+1941,Feb,6,Conon,Faint bright spot,not too definite in outline,faint bright spot,2,0.46342421083672314,-0.09886404446920327
+1941,Mar,6,Cusps,Prolongation suspected,Barcroft,prolong suspect,0,-0.12626225146415748,-0.040882695077930936
+1941,Mar,31,Aristarchus,Crater perceived by earthshine (Haas thought it must have been unusually brilliant),Barcroft,crater perceiv earthshin thought must unusu,0,-0.12697376068582064,-0.07310903648605324
+1941,Jul,10,Gassendi,and near Hansteen,Moving luminous speck near Hansteen: estimated diameter 0.1,near hansteen,0,-0.1142117208495792,-0.05879058358630527
+1942,Feb,2,W of Kepler: 55 min,Whitish glow near earthlit limb,Y.W.L. Fisher,whitish glow near earthlit limb,0,-0.13187920858412183,-0.07764652071152404
+1942,Aug,26,Atlas,Dark areas faded in crater,Haas,dark area fade crater,1,-0.09969103107439031,-0.056014949548875224
+1944,Apr,4,Hyginus N (Klein N),Much darker than usual,Wilkins,much darker usual,0,-0.12066515551238326,-0.036905271903442324
+1944,Aug,12,Plato,Exceptional darkness of crater floor,three light spots noted at foot of E wall. Although no light streaks were visible,except dark crater floor,0,-0.1152270669502495,-0.07491727581822777
+1944,Aug,31,Schickard,Mist on crater floor,Wilkins,mist crater floor,0,-0.15273390472287424,-0.11777504769872957
+1945,Oct,19,11h23m50s,Plato,Bright flash on crater floor near E wall,plato,0,-0.11887181615959029,-0.03721204530093617
+1945,Oct,19,Darwin,Three brilliant points of light on wall,Moore,three brilliant point light wall,0,-0.03556232515738253,-0.0223915507743719
+1947,Jan,30,Eratosthenes,Without normal shadow,H. Hill,without normal shadow,0,-0.14293208219086015,-0.06005254739647112
+1947,Aug,28,SE of Langrenus,Mountain on limb very decidedly bluish,Baum,mountain limb decidedli bluish,0,-0.13298565936518789,-0.027744350497223225
+1947,Nov,30,Aristarchus,Bright spots on inner W slopes,Favarger,bright spot inner w slope,2,0.2504525696434514,-0.06328488780641425
+1948,Feb,17,Dawes,Central peak not seen,but cleft-like marking from SW crest towards E shadow,central peak seen,0,-0.13852825861678966,-0.05847315913359264
+1948,Apr,14,,Prolongation of southern cusp,Wilkins,prolong southern cusp,0,-0.1281134065488571,-0.04147173113076229
+1948,Apr,15,30 degrees N of Grimaldi on W limb,Bright spot on earthlit W limb 30 degrees N of Grimaldi and estimated equal to a 3rd mag star,Vince,bright spot earthlit w limb degre n grimaldi estim equal mag star,0,0.17368227002584233,-0.09536253402417982
+1948,May,20,NE of Philolaus: 15 min,Red glow,Baum,red glow,0,-0.19344238852959006,-0.17348264893172635
+1948,Jul,21,Mare Crisium: several hours,Almost featureless apart from Picard,Peirce,almost featureless apart picard,0,-0.12012555807070664,-0.03970021257749926
+1948,Jul,27,Promontorium Heraclides,Blurred and misty,Moore,blur misti,0,-0.1281575686871957,-0.04369636714974318
+1948,Aug,8,Dark side,A small bright flash on earthlit portion ... like a bright sparkle of frost on the ground,Woodward,small bright flash earthlit portion like bright sparkl frost ground,0,0.12926962438767398,-0.06810122059274135
+1948,Aug,16,E of Picard: several hours,Two areas E of Picard appeared featureless,Moore,two area e picard appear featureless,1,-0.12830584596466765,-0.07489373472270502
+1948,Oct,8,Barkers Quadrangle,Nebulous white patch in place of Quadrangle,Moore,nebul white patch place quadrangl,0,-0.14064112156797035,-0.10024654831090267
+1948,Oct,19,Promontorium Heraclides,Blurred,Docherty,blur,0,-0.12492084546914296,-0.03927672208014848
+1949,Feb,7,Kepler,White glow near Kepler,Y.W.I. Fisher,white glow near kepler,0,-0.14008891537877946,-0.095250990021384
+1949,Feb,9,Barkers Quadrangle,Quadrangle not seen ... appeared misty,Moore,quadrangl seen appear misti,0,-0.13748999819479266,-0.06569902702232858
+1949,Feb,10,Schroters Valley near Cobrahead,Diffuse patch of thin smoke or vapor from W side of Schroters Valley near Cobrahead,spreading into plain: detail indistinct,diffus patch thin smoke vapor w side schroter valley near cobrahead,0,-0.13017089605043383,-0.08062566686574864
+1949,Mar,3,Barkers Quadrangle,Whole area hazy,Moore,whole area hazi,1,-0.12796098422963237,-0.016473538323100865
+1949,May,1,Aristarchus,Visible in earthshine,glowing suddenly as diffuse light patch,visibl earthshin,0,-0.1190746168519002,-0.040722172241620384
+1949,Oct,7,Aristarchus,Abnormally bright during lunar eclipse,G.Brown,abnorm bright lunar eclips,0,0.10410377681865429,-0.07191735915101323
+1949,Nov,3,Aristarchus,Blue glare,base inner W wall,blue glare,0,-0.19790430298416617,0.5086374277176501
+1950,Jun,27,Aristarchus,Blue glare,base inner W wall,blue glare,0,-0.19790430298416617,0.5086374277176501
+1950,Jun,27,Herodotus,Bright point in crater,Bartlett,bright point crater,0,0.16016596596877336,-0.09761728084216638
+1950,Jun,28,Aristarchus,Blue glare,rim of W wall,blue glare,0,-0.19790430298416617,0.5086374277176501
+1950,Jun,29,Aristarchus,Strong bluish glare: E,SE wall,strong bluish e,0,-0.14321044483028644,0.15984758265087853
+1950,Jul,26,Aristarchus,Blue glare,base inner W wall,blue glare,0,-0.19790430298416617,0.5086374277176501
+1950,Jul,31,Aristarchus,Violet glare,E,violet glare,3,-0.14649158614536245,0.7469523172520911
+1950,Aug,28,Aristarchus,Intense blue-violet glare: E wall bright spot,E,intens e wall bright spot,2,0.5176475092044737,0.10363391667224746
+1951,Jan,21,E of Lichtenberg,Red patch,Baum,red patch,0,-0.2014471612381245,-0.20043211011800147
+1951,Feb,4,W of Endymion: 2hr,Mist over peak,Baum,mist peak,0,-0.13685476339182912,-0.046203388574404966
+1951,May,17,Gassendi,Bright speck of short duration,Wilkins,bright speck short durat,0,0.03921085331748926,-0.033876064672479916
+1951,Aug,20,W.H. Pickering (Messier A),Brilliant white patch inside crater,Moore,brilliant white patch insid crater,0,-0.1479733831170899,-0.12633206530005495
+1951,Oct,20,W.H. Pickering (Messier A),Bright circular patch,Moore,bright circular patch,0,0.1851044931078862,-0.09971553911191468
+1952,Apr,3,,Twenty-one spots were charted,one surrounded by a light area,spot chart,2,0.5333980197399232,-0.1597268935332171
+1952,Apr,4,Plato,Obscuration of crater floor,Cragg,obscur crater floor,1,-0.16061471978092745,-0.14075482479214538
+1952,Sep,9,Calippus,Broad hazy band of light across floor (observer gave observation low weight,Moore,broad hazi band light across floor gave observ low weight,0,-0.15172812686571444,-0.10299056991427277
+1952,Dec,24,Theaetetus,Hazy line of light,Moore,hazi line light,0,-0.13821870071533937,-0.11124684272694806
+1953,Apr,18,,Faint extension of cusps,Wilkins,faint extens cusp,0,-0.13389331569245144,-0.05274188407293093
+1953,Nov,15,Near Pallas,Very bright spot on illuminated part near terminator seen and photographed,Stuart,bright spot illumin part near termin seen photograph,0,0.12618990240067152,-0.0856594502434921
+1954,Mar,23,Atlas,Violet tint in Atlas,Delmotte,violet tint atla,3,-0.12577805950979085,0.3205434342310724
+1954,May,10,Crater in Ptolemaeus,Flash,Firsoff,flash,0,-0.11981683533222137,-0.046314605475121534
+1954,May,11,Eratosthenes,Central mountain group invisible,though surrounding details very clear,central mountain group invis,0,-0.13524949838803108,-0.04681188722428875
+1954,Jul,14,Aristarchus,E wall bright spot: violet glare,Bartlett,e wall bright violet glare,3,0.23823369648165316,0.7257621211476841
+1954,Jul,16,Aristarchus,Whole interior of strong violet ting: violet tint in nimbus and N and NE of crater,Bartlett,whole interior strong violet violet tint nimbu n ne crater,3,-0.12931912825594719,0.3777902245640067
+1954,Jul,17,Aristarchus,Pale violet tint on surface NE of crater: no color elsewhere,Bartlett,pale violet tint surfac ne color elsewher,3,-0.14506315419162075,0.19929243778598546
+1954,Jul,24,Aristarchus,Crater filled with pale violet light,Bartlett,crater fill pale violet light,3,-0.12860048783333522,0.14854037767599146
+1954,Aug,11,Aristarchus,Brilliant in red (filter),variable,brilliant red,0,-0.17102583265662488,-0.13436138137714226
+1954,Aug,18,Aristarchus,Brilliant blue-violet glare over E and NE walls,Bartlett,brilliant glare e ne wall,0,-0.04176513016437815,0.374506615800473
+1954,Sep,8,Proclus,Brightness variation in blue light,Firsoff,bright variat blue light,0,0.03512867769004894,0.00029074201627199295
+1954,Oct,8,10,Timocharis,Red glow,timochari,0,-0.12145329452959003,-0.035845839392177704
+1954,Oct,11,Aristarchus,Violet tint on floor,E wall and central peak: intermittent,violet tint floor,3,-0.14955284907687733,0.2222009664499104
+1954,Oct,12,Aristarchus,Pale violet radiance: S wal,SE,pale violet wal,3,-0.12184432051331638,0.4105796794426354
+1954,Oct,12,Aristarchus,Strong violet tint E half of floor: very faint W half of floor and W wall. Dark violet in nimbus: pale violet on plateau,Bartlett,strong violet tint e half faint w half floor w dark violet pale violet plateau,3,-0.13460100054128876,0.3849166413292046
+1954,Oct,13,Aristarchus,Bright blue-violet glare,E rim: pale violet radiance within crater and around S wall bright spot. Dark violet in nimbus: pale violet on plateau.,bright glare,0,0.20324840081276468,0.5070353574752123
+1954,Oct,13,Aristarchus,Scarcely perceptible violet radiance within crater: wall bands look faint,Bartlett,scarc percept violet radianc within wall band look faint,3,-0.069101194414763,0.16617164422798872
+1954,Oct,18,Aristarchus,Strong blue-violet glare,E wall bright spot,strong glare,0,-0.16795448602604876,0.5826746496195724
+1954,Nov,5,Copernicus,Bright point,Johnstone,bright point,0,0.21658600831133007,-0.05599876950759359
+1954,Nov,7,Kepler,Bright point just outside E wall,Lugo,bright point outsid e wall,0,0.18337333031034397,0.05843945091874803
+1954,Nov,12,Bartlett,Bartlett 1967,,bartlett,0,-0.11410029397912765,-0.03180090444102367
+1954,Dec,12,Aristarchus,Strong violet glare,E rim,strong violet glare,3,-0.15511128599387616,0.7431574510795098
+1955,Jan,8,Aristarchus,Strong violet glare whole length of E rim: brightest SE and around E wall bright spot,Bartlett,strong violet glare whole length e brightest se around e wall bright spot,3,0.1549175756154743,0.4301575474589073
+1955,Jan,12,Aristarchus,Blue-violet glare: E wall bright spot,E,e wall bright spot,2,0.7564351786314384,0.09169147368761894
+1955,Apr,2,Straight-wall region: 1 hr 40 min,Small craters between Birt and fault invisible at times under excellent viewing conditions,while craterlets on E side were continually observed,small crater birt fault invis time excel view condit,0,-0.11444842294133989,-0.08540814339526308
+1955,Apr,5,Aristarchus,E wall and glacis: violet: uncertain,Bartlett,e wall uncertain,0,0.14833670534473442,0.23495897510824676
+1955,Apr,24,Near Posidonius,White flash of short duration N of Mare Serenitatis near Posidonius,Wykes,white flash short durat n mare serenitati near posidoniu,0,-0.11887462695169337,-0.06416678223698538
+1955,May,5,Aristarchus,Pale violet tint in E half of floor: violet band at base,E side of central peak,pale violet tint e half violet band base,3,-0.13644782583235687,0.32746995251755395
+1955,May,24,Near South Pole,Glitter suggesting electrical discharge,Firsoff,glitter suggest electr discharg,0,-0.11953907941605765,-0.035464911866673894
+1955,Jun,25,Theophilus,Mistiness: absent the next night,Firsoff,absent next night,0,-0.12347115662000836,-0.029146653824723933
+1955,Jul,3,Schroters Valley,Starlike point,Firsoff,starlik point,0,-0.1304910073306113,-0.08621713950997645
+1955,Jul,13,Aristarchus,Brilliant in blue and green,Firsoff,brilliant blue green,0,-0.1680170165231659,0.07314432081290567
+1955,Aug,3,Aristarchus,Plateau only: pale violet tint,Bartlett,plateau pale violet tint,3,-0.12959694802160054,0.3257724757554549
+1955,Aug,3,Manilius,Timocharis,Manilius extraordinarily brilliant: Timocharis bright in blue,timochari,0,-0.12145329452959003,-0.035845839392177704
+1955,Aug,26,Near Carpathians: 35 sec,Bright flare on dark side similar to 2nd mag star,McCorkle,bright flare dark side similar mag star,0,0.062083250722408535,-0.04211423330980701
+1955,Aug,30,Aristarchus,Floor,base inner W wall,floor,0,-0.16113020577816606,-0.1073658792974152
+1955,Sep,7,Copernicus,Brightened in blue,Firsoff,brighten blue,0,-0.16642149440128534,0.06310899309837868
+1955,Sep,7,Aristarchus,Strong blue-violet glare: E,NE rim: also E base of central peak. Dark violet,strong e,0,-0.13926532170436612,0.2371723392752956
+1955,Sep,8,Aristarchus,Strong bluish glare on E,NE wall,strong bluish glare e,0,-0.16545590735287694,0.4424082881155893
+1955,Sep,8,Taurus Mountains,Two flashes from edge of Taurus Mountains,Lambert,two flash edg tauru mountain,0,-0.11978157815129281,-0.05330807071512214
+1955,Sep,9,Aristarchus,Floor: blue clay color,Bartlett,blue clay color,0,-0.17739518975806848,0.045139975848374723
+1955,Sep,28,Cobrahead,Obscured by brown patch,Bestwick,obscur brown patch,1,-0.17002983229521607,-0.12553659973489276
+1955,Oct,2,Aristarchus,Violet glare,E,violet glare,3,-0.14649158614536245,0.7469523172520911
+1955,Oct,4,Aristarchus,Pale violet tint: E wall bright spot and whole length of E rim: dark violet in nimbus,Bartlett,pale violet e wall bright spot whole length e dark violet nimbu,3,0.22260674515153103,0.45080043700549866
+1955,Oct,4,Aristarchus,Spectrum enhanced in H and K region,Kozyrev,spectrum enhanc h k region,0,-0.1330816173438875,-0.04684082587323707
+1955,Oct,5,Aristarchus,Intensely bright blue-violet glare: E wall bright spot,E,intens bright e wall bright spot,2,0.6302330349511187,0.0928904940873747
+1955,Oct,31,Aristarchus,Bright blue-violet glare,E,bright glare,0,0.20324840081276468,0.5070353574752123
+1955,Oct,31,Aristarchus,Intense blue-violet glare,E,intens glare,0,-0.13440663385993445,0.40692119353620854
+1955,Oct,31,Cobrahead,Dark blue obscuration,Milligan,dark blue obscur,1,-0.14622707939340185,0.08445411000241437
+1955,Nov,1,Aristarchus,Pale violet tint: E wall bright spot,E,pale violet e wall bright spot,3,0.4594759664894689,0.3805705491026418
+1955,Nov,6,Aristarchus,Strong blue-violet glare,E,strong glare,0,-0.16795448602604876,0.5826746496195724
+1955,Nov,27,Aristarchus,Floor: blue clay color,Bartlett,blue clay color,0,-0.17739518975806848,0.045139975848374723
+1956,Jan,24,W edge of Cavendish: 10 min,Variable point of light,Houghton,variabl point light,0,-0.11999117707725662,-0.11832308338891122
+1956,Jan,27,Aristarchus,Violet glare whole length of E wall and around E wall bright spot: violet tint N and NE of crater,Bartlett,violet glare whole length e wall around e wall bright violet tint n ne crater,3,0.08361147232451638,0.5272032643289172
+1956,Jan,28,Aristarchus,Pale violet radiance: E,NE rim,pale violet e,3,-0.12184432051331638,0.4105796794426354
+1956,Mar,14,,Twilight at S cusp traced 400 mi. beyond cusp. No trace of twilight at N pole. 6 12 inch reflector used. Moon 2 12 days old,Firsoff,twilight cusp trace beyond trace twilight n inch reflector moon day old,0,-0.12884803158876296,-0.049900108265279595
+1956,Mar,18,,Anomalous dimming of Tau and 105 Tau before occultation,Firsoff,anomal dim tau tau occult,0,-0.1259838529330606,-0.0441742058553364
+1956,Jun,20,Aristarchus,Blue glare,base inner W wall,blue glare,0,-0.19790430298416617,0.5086374277176501
+1956,Jun,26,Aristarchus,Intense blue-violet glare: on E wall bright spot. Dark violet in nimbus,Bartlett,intens e wall bright dark violet nimbu,3,0.18737252114146358,0.37421002532912895
+1956,Jun,28,Aristarchus,Intense blue-violet glare,E wall bright spot. Dark violet,intens glare,0,-0.13440663385993445,0.40692119353620854
+1956,Jun,29,Aristarchus,Faint,blue-violet tint: E wall bright spot,faint,0,-0.1350898917607726,-0.05689066975528939
+1956,Jun,30,Aristarchus,Vivid blue-violet glare: E wall bright spot,E,vivid e wall bright spot,2,0.45084228377799407,0.05202261903397636
+1956,Jul,28,Aristarchus,Vivid blue-violet glare on central peak,band across E floor to E wall bright spot: on E wall bright spot and E,vivid glare central peak,0,-0.14717305510807002,0.21129780676926327
+1956,Oct,16,Aristarchus,Blue glare,base inner W wall,blue glare,0,-0.19790430298416617,0.5086374277176501
+1956,Oct,20,Aristarchus,Bright blue-violet glare on E wall bright spot,E,bright glare e wall bright spot,2,0.6457039421256922,0.3756341037527909
+1956,Oct,26,Alphonsus,A suspected partial obscuration of the floor based on differences in detail in infrared and ultraviolet photographs,Alter,suspect partial obscur floor base differ detail infrar ultraviolet photograph,1,-0.14277961834317812,-0.06777899919936572
+1956,Nov,15,Aristarchus,Faint blue radiance,base inner W wall,faint blue radianc,0,-0.16878635980312506,0.05109804094510994
+1956,Nov,16,Aristarchus,Floor: bright bluish tint E of central peak: blue-gray W of central peak,Bartlett,bright bluish tint e central w central peak,0,-0.01670260434982453,0.006653232049587022
+1956,Nov,17,Aristarchus,Tycho,Kepler,tycho,0,-0.11588503521972685,-0.03658124201194542
+1957,Mar,17,Aristarchus,Strong violet glare: E wall bright spot and whole length of E wall. Dark violet in nimbus: pale violet on plateau,Bartlett,strong violet e wall bright spot whole length e dark violet pale violet plateau,3,0.15656483452326728,0.531831347689001
+1957,Mar,18,Aristarchus,Strong violet glare: E wall bright spot,E wall. Very strong violet hue in nimbus,strong violet e wall bright spot,2,0.4532386953414341,0.43498215692102743
+1957,Jun,11,Aristarchus,Floor: uniform bluish radiance,Bartlett,uniform bluish radianc,0,-0.13630699917438838,-0.00029429469203951766
+1957,Jul,11,Aristarchus,Pale violet radiance in crater and on plateau,Bartlett,pale violet radianc crater plateau,3,-0.1261806653661144,0.23328885059964785
+1957,Aug,18,Aristarchus,Pale blue tint on all walls: floor dazzling white,Bartlett,pale blue tint floor dazzl white,0,-0.18468546130441219,0.10727971374268472
+1957,Oct,11,Aristarchus,Bright blue-violet: E wall bright spot,E,bright e wall bright spot,2,0.8032935176491095,0.07335220863226306
+1957,Oct,12,Aristarchus,Bright blue-violet glare: E wall bright spot,E,bright e wall bright spot,2,0.8032935176491095,0.07335220863226306
+1957,Oct,12,Aristarchus: 1 hr,Bright flash: then brownish eccentric patch,Dachille and daughter,bright brownish eccentr patch,0,0.06645120619146472,-0.0777728048372045
+1957,Oct,13,Aristarchus,Weak violet glare: whole length of E wall,Bartlett,weak violet whole length e wall,3,-0.006727323350056417,0.37044125314958626
+1957,Oct,13,In or near Aristarchus,Bright spot of light (explosion),Haas,bright spot light,2,0.5409839822301808,-0.17989575174180164
+1957,Oct,15,Aristarchus,Strong blue-violet glare,whole length of E wall,strong glare,0,-0.16795448602604876,0.5826746496195724
+1957,Oct,16,Aristarchus,Faint blue-gray tint: N,NW,faint n,0,-0.1350898917607726,-0.05689066975528939
+1958,May,1,Aristarchus,Entire sunlit area of floor,bluish,entir sunlit area floor,1,-0.14129404899975673,-0.08924789433082632
+1958,May,4,Aristarchus,Blue-violet glare S side of E wall bright spot: dark violet in nimbus: pale violet on plateau,Bartlett,glare side e wall bright dark violet pale violet plateau,3,0.09002582656379576,0.6106305509410735
+1958,May,31,Aristarchus,Pale blue-gray floor: violet band E base of central peak,Bartlett,pale violet band e base central peak,3,-0.14112954433784655,0.18272747628688793
+1958,Jun,29,Aristarchus,Floor: very pale bluish tint,Bartlett,pale bluish tint,0,-0.14634397992015608,0.12348202141761698
+1958,Jul,2,Aristarchus,Strong violet glare whole length of E wall,involving E wall bright spot: dark violet,strong violet glare whole length e wall,3,-0.05499921978317511,0.6447390389772488
+1958,Jul,3,Aristarchus,Bright blue-violet glare: E,NE rim. Dark violet,bright e,2,0.5677595702189234,-0.001642563497034442
+1958,Aug,2,Aristarchus,Strong violet glare: E wall bright spot,NE wall. Dark violet,strong violet e wall bright spot,2,0.4532386953414341,0.43498215692102743
+1958,Sep,1,Aristarchus,Whole crater filled with pale violet radiance,especially bright on walls. Pale violet N and NE of crater and on plateau,whole crater fill pale violet radianc,3,-0.1287446708211809,0.20716079708060872
+1958,Sep,23,Piton,Became enveloped in an obscuring cloud-like mist,Moore,becam envelop obscur mist,1,-0.1408003089612666,-0.06051884145764584
+1958,Oct,16,N of Mare Crisium,Bright spot in dark area of moon,Mayemson,bright spot dark area moon,2,0.33401157645219925,-0.07573959779514285
+1958,Nov,3,Alphonsus,Reddish glow,followed by effusion of gas,reddish glow,0,-0.15851917037776866,-0.0978313163392331
+1958,Nov,19,Alphonsus: 30 min,Diffuse cloud over central mountain,Poppendiek,diffus cloud central mountain,0,-0.13651627528898252,-0.054058645297547066
+1958,Nov,19,Alpetragius,Portion of shadow in crater vanished,Stein,portion shadow crater vanish,0,-0.13973796736184604,-0.09438860302373427
+1958,Nov,19,Alphonsus,Reddish patch close to central peak,Wilkins,reddish patch close central peak,0,-0.15842942976427093,-0.0925267938433182
+1958,Nov,22,Alphonsus,Gray spot,Bartha,gray spot,0,0.14250401647862462,-0.08813957539983415
+1958,Dec,19,Alphonsus,Reddish patch close to central peak,Wilkins,reddish patch close central peak,0,-0.15842942976427093,-0.0925267938433182
+1959,Jan,22,Aristarchus,Interior,light brilliant blue,interior,0,-0.1277554756184652,-0.02897803508198984
+1959,Jan,23,Aristarchus,Brilliant blue interior,Alter,brilliant blue interior,0,-0.16311794785564018,0.047586438584253904
+1959,Feb,18,Alphonsus,Red patch,Hole,red patch,0,-0.2014471612381245,-0.20043211011800147
+1959,Mar,24,Aristarchus,Strong blue and blue-violet glares: E wall,E wall bright spot,strong blue e wall,0,-0.04340275467800734,0.3669328182614684
+1959,Mar,25,Aristarchus,Intense blue-violet glare on whole length of E rim and on E wall bright spot: dark violet hue in nimbus,Bartlett,intens glare whole length e rim e wall bright dark violet hue nimbu,3,0.06619531606695005,0.4821115927012486
+1959,Apr,19,W of Mare Humorum,Bright point to W of mare,McFarlane,bright point w mare,0,0.11125346398080364,-0.05494637493581954
+1959,Sep,5,Aristarchus,Irregular,intermittent starlike point of light,irregular,0,-0.11410029397912765,-0.03180090444102367
+1959,Sep,13,Littrow,Obliterated by a hovering cloud (Feist disagrees with Bradford),Bradford,obliter hover cloud disagre,0,-0.12667125050344777,-0.0491450235977312
+1959,Oct,23,Alphonsus,Red glow seen. Spectrum showed unusual features,Kozyrev,red glow spectrum show unusu featur,0,-0.17389328944592516,-0.11958056304220994
+1960,Jan,6,Alphonsus,Red spot,Warner,red spot,2,0.20096126887742283,-0.22376841771296047
+1961,Feb,15,Aristarchus,Plato,Seen as bright features during solar eclipse (on film of eclipse shown by BBC,plato,0,-0.11887181615959029,-0.03721204530093617
+1961,May,30,Aristarchus,Enhancement of spectrum in UV,Grainger,enhanc spectrum uv,0,-0.1364435809026895,-0.04911664324594553
+1961,Jun,27,Aristarchus,ray near Bessel,Enhancement of spectrum in UV,ray near bessel,0,-0.11675826006046071,-0.05005795597157963
+1961,Jun,29,E of Plato,Enhancement of spectrum in UV,Grainger,enhanc spectrum uv,0,-0.1364435809026895,-0.04911664324594553
+1961,Oct,18,Eratosthenes,Bright spot in crater,Bartlett,bright spot crater,2,0.5742060467842863,-0.14283181568025535
+1961,Nov,26,Aristarchus region,Red glow seen. Anomalous spectra in red and blue,Kozyrev,red glow anomal spectra red blue,0,-0.205474174795957,-0.09509858582760199
+1961,Nov,28,Aristarchus region,Red glow seen. Anomalous spectra in red and blue,Kozyrev,red glow anomal spectra red blue,0,-0.205474174795957,-0.09509858582760199
+1961,Dec,3,Aristarchus region,Red glow seen. Anomalous spectra in red and blue,Kozyrev,red glow anomal spectra red blue,0,-0.205474174795957,-0.09509858582760199
+1962,Sep,5,Region of Walter near terminator: 7 min,Faint point of light,Chalk,faint point light,0,-0.13544117415563856,-0.14131032144714073
+1962,Sep,16,Whole moon,Spectrum showed UV emission,particularly in region of H and K lines by comparison with spectra of Sun,spectrum show uv emiss,0,-0.1334802674935156,-0.04656340707371791
+1962,Oct,8,Aristarchus: 1 hr,Activity,Adams,activ,0,-0.13515466188620695,-0.04852073306434319
+1963,Oct,5,Aristarchus region,Enhancement of 30 percent at 5450 A,Scarfe,enhanc percent,0,-0.12965302566962963,-0.043202091158991734
+1963,Oct,30,Aristarchus region,Color changes: reddish-orange to ruby patches,Greenacre,color rubi patch,0,-0.1821326378037517,-0.11147819479401633
+1963,Oct,30,Cobrahead: 7 min,Brightened area,7th to 11th mag,brighten area,1,-0.13042426244013466,-0.06775130620011245
+1963,Nov,1,Near Kepler: 20 min,Enhancement of large area in red light,Kopal,enhanc larg area red light,1,-0.15900758863149747,-0.16385117382855308
+1963,Nov,11,Aristarchus,Color changes,Jacobs,color chang,0,-0.14720303287925326,-0.04731086446295047
+1963,Nov,28,Aristarchus,Schroters Valley: 1 hr 15 min,Red spots,schroter hr min,0,-0.13545096650470867,-0.051744352555592295
+1963,Nov,28,Cobrahead: 35 min,Pink spot on W side,Tombaugh,pink spot w side,0,0.1203295253899533,-0.08671199699022514
+1963,Nov,28,Aristarchus,Anaximander: 1 hr,Red spot in Aristarchus and also on N edge of Anaximander,hr,0,-0.12064844234790006,-0.04012824290182039
+1963,Dec,28,Aristarchus to Herodotus: 31 min,Extensive red area,9 students at Hiroshima,extens red area,1,-0.15430293079152882,-0.12766627548352608
+1963,Dec,29,Aristarchus region: 5 hr,Purplish-blue patch,Doherty and others,patch,0,-0.16526798315648303,-0.12799485012984943
+1963,Dec,30,NE limb: 20 min,During eclipse,anomalous reddish glow inside umbra (Lunar eclipse),eclips,0,-0.13008484586947883,-0.06859587501978248
+1964,Feb,25,Cobrahead: 3 min,Aristarchus: 1 min,Red flashes,min,0,-0.14291433996399275,-0.05205378292817019
+1964,Mar,16,Aristarchus,Sudden red glow on SW rim,Lecuona,sudden red glow sw rim,0,-0.16088669298056624,-0.11503038316918482
+1964,Mar,18,Aristarchus,Flash,Earl and brother,flash,0,-0.11981683533222137,-0.046314605475121534
+1964,Mar,26,Aristarchus,Floor: blue clay color,Bartlett,blue clay color,0,-0.17739518975806848,0.045139975848374723
+1964,Mar,28,Aristarchus,Blue-violet glare,E wall and N wall: E wall bright spot: violet tinge in nimbus,glare,0,-0.16641152111819246,0.5849613505531913
+1964,Apr,22,Near Ross D,Bright spot,Cross and others,bright spot,2,0.8231119119164837,-0.10701441993494196
+1964,Apr,26,Region of Censorinus,Surface brightening somewhat similar to Kopal-Rackham (1963,Nov,surfac brighten somewhat similar,0,-0.12641920317111463,-0.03949739101285748
+1964,May,17,Theophilus,Crimson color on W rim,10 mag,crimson color w rim,0,-0.14549647591202514,-0.04787596782684003
+1964,May,18,SE of Ross D: 1 hr 5 min,White obscuration moved 20 mph,decreased in extent. Phenomenon repeated. Newtonians 8 f7 and 9 f7 used,white obscur move mph,1,-0.1378356436960902,-0.08494151189154339
+1964,May,20,Plato: 10 min,Strong orange-red color on W rim of crater,+ 10 mag,strong color w rim crater,0,-0.15134769480842938,0.05738262044656114
+1964,May,26,Aristarchus,Strong blue-violet glare,E wall and E wall bright spot: strong violet tinge in nimbus,strong glare,0,-0.16795448602604876,0.5826746496195724
+1964,May,28,Aristarchus,Blue-violet glare: E wall bright spot,E,e wall bright spot,2,0.7564351786314384,0.09169147368761894
+1964,Jun,6,Aristarchus area: 50 min,Spur between Aristarchus and Herodotus: red spots (glow) in Schroters Valley,Schmidling,spur aristarchu red spot schroter valley,0,0.011433788525602166,-0.12251892475884794
+1964,Jun,17,SE of Ross D,Moving bright spot: 2 brief obscurations of part of wall. Newtonian,19 f7,move bright brief obscur part newtonian,1,0.04568549572992698,-0.05896754610982533
+1964,Jun,20,Aristarchus,Nimbus only: dark violet hue,Bartlett,nimbu dark violet hue,3,-0.09343331725351697,0.29835769460952566
+1964,Jun,21,S of Ross D: 2 hr,1 min,Moving dark area. Newtonian 19 f7,min,0,-0.14291433996399275,-0.05205378292817019
+1964,Jun,23,Aristarchus,Blue-violet glare,NE rim: strong violet tinge in nimbus,glare,0,-0.16641152111819246,0.5849613505531913
+1964,Jun,25,Aristarchus,Very bright during eclipse (direct photograph,lunar eclipse),bright eclips photograph,0,0.08636863003506279,-0.04807409135983127
+1964,Jun,25,Grimaldi,During lunar eclipse,white streak from Grimaldi toward limb,lunar eclips,0,-0.1431135701821458,-0.08642198325014828
+1964,Jun,26,Aristarchus,Dark violet in nimbus: pale violet on plateau. Absent from crater,Bartlett,dark violet pale violet absent crater,3,-0.10176901375960047,0.33709575848969153
+1964,Jun,27,Aristarchus,Bright blue-violet: E wall bright spot,E,bright e wall bright spot,2,0.8032935176491095,0.07335220863226306
+1964,Jun,28,Aristarchus,Blue-violet glare: E wall bright spot,E,e wall bright spot,2,0.7564351786314384,0.09169147368761894
+1964,Jun,28,S region of Aristarchus,Reddish-brown tone observed,Bartlett,tone observ,0,-0.12913274659585475,-0.052326302244009325
+1964,Jul,16,SE of Ross D,Temporary hill,est 3 km diam and shadow seen,temporari hill,0,-0.11410029397912765,-0.03180090444102367
+1964,Jul,17,Plato,Faint pink bands at base of inner W wall and on rim of N wall,Bartlett,faint pink band base inner w wall rim n wall,0,-0.010458188105438066,0.0852422571242886
+1964,Jul,18,SE of Ross D,Bright area moved and shrank. Extent greater with amber filter,Harris,bright area move extent greater amber filter,1,0.05170938925627027,-0.05524767730029466
+1964,Jul,18,Plato: some minutes,Pink tinge to W wall,10th mag,pink ting w wall,0,-0.020077135146891183,0.06581877439622577
+1964,Jul,28,Aristarchus,Blue-violet glare: E wall bright spot. Dark violet in nimbus: pale violet on plateau,Bartlett,e wall bright dark violet pale violet plateau,3,0.1265492010577695,0.48582341001968266
+1964,Jul,29,Aristarchus,Nimbus only: dark violet hue,Bartlett,nimbu dark violet hue,3,-0.09343331725351697,0.29835769460952566
+1964,Jul,31,Aristarchus,Pale blue tint: NE,N,pale blue ne,0,-0.15897327130330777,0.17902900455284748
+1964,Aug,16,SE of Ross D: 1 hr,2 min,Bright area. Condensations varying with time,min,0,-0.14291433996399275,-0.05205378292817019
+1964,Aug,24,Aristarchus,Bright blue-violet: E wall bright spot,E,bright e wall bright spot,2,0.8032935176491095,0.07335220863226306
+1964,Aug,25,Aristarchus,Bright blue-violet: E wall bright spot,E,bright e wall bright spot,2,0.8032935176491095,0.07335220863226306
+1964,Aug,26,Aristarchus,Blue-violet glare: E wall bright spot,E,e wall bright spot,2,0.7564351786314384,0.09169147368761894
+1964,Aug,26,Aristarchus: 1 hr,Red and blue bands,Gennatt,red blue band,0,-0.19816169782840581,-0.006432935053848386
+1964,Aug,27,Aristarchus,Blue-violet glare: E wall bright spot,E,e wall bright spot,2,0.7564351786314384,0.09169147368761894
+1964,Aug,28,Aristarchus,Faint blue-violet radiance,E wall bright spot and NE rim. Dark violet in nimbus,faint radianc,0,-0.13854139403436916,-0.03453005753950747
+1964,Sep,18,Aristarchus,Craterlet,base NW wall: bluish,craterlet,0,-0.11980840255419178,-0.03575393586535489
+1964,Sep,20,Aristarchus to Herodotus,Several red spots in area,Crowe,sever red spot area,1,0.11425529353905108,-0.2081674640617508
+1964,Sep,20,SE of Ross D,Bright obscuration,Cross,bright obscur,1,0.18073360832635288,-0.052134445560128896
+1964,Sep,22,Aristarchus,Bright blue-violet glare: E wall bright spot and NE rim. Dark violet in nimbus,Bartlett,bright e wall bright spot ne dark violet nimbu,2,0.46136825773458007,0.28740341750923576
+1964,Sep,22,Kunowsky: 1 hr,Red area blinked in blinker,Gillheaney,red area blink blinker,1,-0.1777131480008758,-0.16531143527721023
+1964,Sep,23,Aristarchus,Blue-violet flare glare?: E wall bright spot,E,flare e wall bright spot,2,0.42816936787435256,0.04448573142079436
+1964,Sep,25,Aristarchus,Blue-violet glare: E wall bright spot. Dark violet on nimbus,Bartlett,e wall bright dark violet nimbu,3,0.22800638202224027,0.40122851099910517
+1964,Sep,25,Aristarchus,Blue-violet glare: E wall bright spot. Dark violet in nimbus: pale violet on plateau,Bartlett,e wall bright dark violet pale violet plateau,3,0.1265492010577695,0.48582341001968266
+1964,Sep,26,Aristarchus,Moderately intense: E wall bright spot. Dark violet,nimbus,moder e wall bright dark violet,3,0.31091960342871194,0.42920557312403335
+1964,Oct,19,Aristarchus,Strong blue tint E half of floor: blue-violet glare,base E side central peak,strong blue tint e half glare,0,-0.18722961266183502,0.43793428601027135
+1964,Oct,22,Aristarchus,Blue-violet glare,E wall bright spot,glare,0,-0.16641152111819246,0.5849613505531913
+1964,Oct,24,Aristarchus,Blue-violet glare: E wall bright spot,E,e wall bright spot,2,0.7564351786314384,0.09169147368761894
+1964,Oct,25,Aristarchus,Nimbus only: dark violet hue,Bartlett,nimbu dark violet hue,3,-0.09343331725351697,0.29835769460952566
+1964,Oct,25,Aristarchus,Blue-violet glare: E wall bright spot,E,e wall bright spot,2,0.7564351786314384,0.09169147368761894
+1964,Oct,27,Alphonsus,Reddish-pink patch at base of sunlit central peak,L.Johnson,patch base sunlit central peak,0,-0.15282149489435598,-0.07287923392642734
+1964,Nov,14,Plato,Peak on W wall very brilliant white. At foot of peak on inner side,strong blue band. Immediately adjacent,peak w wall brilliant foot peak inner side,0,-0.06140242774156052,0.012728785695792439
+1964,Nov,21,Aristarchus,Bright blue-violet glare: NE,N,bright ne,0,0.18392138318777287,0.019067605632763218
+1964,Nov,23,Aristarchus,Strong blue-violet glare: N,NE,strong n,0,-0.13926532170436612,0.2371723392752956
+1964,Nov,24,Aristarchus,Blue-violet glare,N rim. Dark violet in nimbus: pale violet N and NE of crater,glare,0,-0.16641152111819246,0.5849613505531913
+1964,Dec,19,Aristarchus: 1 min,Brightened by a factor of 5,Budine,brighten factor,0,-0.1302710721924942,-0.03763976075278805
+1964,Dec,19,,Anomalous bright area during lunar eclipse,S. Hill and student,anomal bright area lunar eclips,1,0.027913793813895756,-0.09064566267343811
+1964,Dec,19,Edge of Mare Nubium,Photoelectric photometry showed strong anomalous enhancement of radiation during lunar eclipse,Sanduleak,photoelectr photometri show strong anomal enhanc radiat lunar eclips,0,-0.156517123255548,0.019572562464498545
+1965,Mar,14,SE of Ross D,Crater wall partially obscured. Bright area. Cassegrain 12,f15,crater wall partial bright cassegrain,0,0.2047685941939152,0.05104124346817523
+1965,Jul,1,Aristarchus,dark side,Starlike image,dark side,0,-0.06664974581905272,0.006919303080370521
+1965,Jul,2,Aristarchus: 1 hr 21 min,Bright spot like star on dark side,estimated mag 4,bright spot like star dark side,2,0.32053486050376434,-0.09577282290145331
+1965,Jul,3,Aristarchus: 1 hr 10 min,Pulsating spot on dark side,Emanuel,pulsat spot dark side,0,0.1180894683243325,-0.04975718650329953
+1965,Jul,4,Aristarchus: 1 hr,Bright spot,no pulsations,bright spot,2,0.8231119119164837,-0.10701441993494196
+1965,Jul,7,Grimaldi,White streak extended toward limb,Azevado,white streak extend toward limb,0,-0.1282163778835411,-0.07343505788048067
+1965,Jul,8,Theophilus: 10 min,Bright spot,Cross,bright spot,2,0.8231119119164837,-0.10701441993494196
+1965,Jul,9,Aristarchus: 2 hr 6 min,Starlike image,Emanuel,starlik imag,0,-0.13867159128244186,-0.06143276811721851
+1965,Jul,31,Aristarchus,Starlike image,Welch,starlik imag,0,-0.13867159128244186,-0.06143276811721851
+1965,Aug,2,Aristarchus: 1 min,Starlike brightening,8th to 9th mag,starlik brighten,0,-0.14133801044324323,-0.05816065716369003
+1965,Aug,3,Aristarchus: 6 min,Starlike image,6th to 7th mag,starlik imag,0,-0.13867159128244186,-0.06143276811721851
+1965,Aug,4,Aristarchus: 2 min,Starlike image,6th to 7th mag,starlik imag,0,-0.13867159128244186,-0.06143276811721851
+1965,Sep,3,SE of Ross D,Ridge obscured,Harris,ridg obscur,1,-0.14311425519258925,-0.07089350504824946
+1965,Sep,9,Aristarchus,Orange-red strip on floor,Presson,strip floor,0,-0.16113020577816606,-0.1073658792974152
+1965,Oct,10,Aristarchus,Pale violet radiance: whole of W interior: dark violet,nimbus: pale violet on plateau,pale violet whole w dark violet,3,-0.09856999587730217,0.4518292768762486
+1965,Oct,11,Aristarchus,Whole crater,exclusive of S area,whole crater,0,-0.11719293042870774,-0.00534758825493935
+1965,Oct,12,Aristarchus,Nimbus only: dark violet hue,Bartlett,nimbu dark violet hue,3,-0.09343331725351697,0.29835769460952566
+1965,Oct,13,Aristarchus,Pale,blue-violet tint on E wall bright spot and whole length of E wall: pale violet radiance in crater,pale,3,-0.13194055378706138,0.1416697139453097
+1965,Nov,15,Aristarchus,Bright spots,L.Johnson,bright spot,2,0.8231119119164837,-0.10701441993494196
+1965,Dec,1,,Reddish glow followed by black obscuration,Evrard and others,reddish glow follow black obscur,1,-0.1576801222662429,-0.10059337195831183
+1965,Dec,4,Ross D,Obscuration of part of rim,also bright area 7-10 km diameter,obscur part rim,1,-0.1354888985587863,-0.06541163650221164
+1966,Feb,7,Aristarchus,Nimbus only: intense violet hue,Bartlett,nimbu intens violet hue,3,-0.10599305100091594,0.27821172855898024
+1966,Mar,29,Archimedes,Floor bands brilliant,E.G. Hill,floor band brilliant,0,-0.15543442288740997,-0.07032263891419534
+1966,Apr,2,Aristarchus: 20 min,Central peak very bright,M. Brown,central peak bright,0,0.10061219025324646,-0.032958969467313026
+1966,Apr,3,Aristarchus: 30 min,Central peak very bright,M. Brown,central peak bright,0,0.10061219025324646,-0.032958969467313026
+1966,Apr,12,Whippey,B.A.A. Lunar Sec. Circ. 1967,2,lunar,0,-0.13938519019275336,-0.07236643418782586
+1966,Apr,30,Gassendi,Red glows,Sartory,red glow,0,-0.19344238852959006,-0.17348264893172635
+1966,May,1,Aristarchus: 50 min,Red patch,Patterson,red patch,0,-0.2014471612381245,-0.20043211011800147
+1966,May,1,Aristarchus: 15 min,Small intense white spot NW of crater wall,M. Brown,small intens white spot nw crater wall,0,0.1276397656270167,-0.019983425492144026
+1966,May,27,Alphonsus: 50 min,Faint red patches,Sartory,faint red patch,0,-0.19572606478703664,-0.17984448639454015
+1966,May,30,Gassendi: 7 min,Blink,orange patch and obscuration,blink,0,-0.14982929917699087,-0.07913397905341402
+1966,Jun,1,Aristarchus,Entire sunlit area of floor,bluish,entir sunlit area floor,1,-0.14129404899975673,-0.08924789433082632
+1966,Jun,3,Aristarchus,Nimbus only,violet hue,nimbu,0,-0.11025117514719662,0.07551559139675323
+1966,Jun,26,Alphonsus: 10 min,Absorption band (4880 +-50A) seen in spectrum of central peak,Harris,absorpt band seen spectrum central peak,0,-0.14782387598200702,-0.05418694993305274
+1966,Jun,27,Plato: 15 min,Inside SW wall of crater,blink,insid sw wall crater,0,-0.0312770669551231,0.02350625122521782
+1966,Jul,10,Triesnecker: 1 hr,Bright streak in crater,Allen,bright streak crater,0,0.14164016679028293,-0.0936087935059307
+1966,Aug,4,Plato: 53 min,26 min,Red color,min,0,-0.14291433996399275,-0.05205378292817019
+1966,Sep,2,Gassendi: 3 hr,Reddish patches,Moore,reddish patch,0,-0.16415233927234418,-0.1184978127964147
+1966,Sep,2,Alphonsus: intermittent,1 hr 2 min,A series of weak glows: Final flash observed at     Whippey,hr min,0,-0.13820862073637466,-0.05151983686862103
+1966,Sep,3,Gassendi,Blinks on NE,ENE walls and SW and W of central peak,blink ne,0,-0.1385239749205777,-0.03453737565843296
+1966,Sep,25,Gassendi: 30 min,Reddish patches,Moore,reddish patch,0,-0.16415233927234418,-0.1184978127964147
+1966,Sep,25,Plato: 3 min,Blinks in crater,Moseley,blink crater,0,-0.14410317303292716,-0.11756925154295297
+1966,Oct,25,SE of Ross D,Large bright area obscuring half of crater wall. Not present,Oct,larg bright area obscur half crater present,1,0.015677680274532056,-0.07891070216507544
+1966,Oct,25,Gassendi,Red blinks,N wall,red blink,0,-0.18765898365779798,-0.15857851245336888
+1966,Oct,29,Copernicus,N rim: 45 min,Red spot,n min,0,-0.14291433996399275,-0.05205378292817019
+1966,Dec,22,Messier (W.H. Pickering): 30 min,Blinks on floors of both craters,Kelsey,blink floor crater,0,-0.16511892546544216,-0.14505801115839928
+1966,Dec,23,Plato: 55 min,Numerous light streaks on floor,three bright spots on floor,numer light streak floor,0,-0.1586078464427324,-0.16812906011024464
+1966,Dec,27,Gassendi: 35 min,Very faint blink on SW floor and another N of it on NW floor (observer considers observation very suspect),Kelsey,faint blink sw floor anoth n nw floor consid observ,0,-0.16929057228868027,-0.11308663537906265
+1967,Jan,21,Gassendi,Small blink and suspect faint colored patch in outer W wall in position of original observation of 1966,Apr,small blink suspect faint color patch outer w wall posit origin observ,0,-0.10670229010342919,-0.05241627940474719
+1967,Feb,17,Alphonsus: 25 min,Blink just inside the SW floor of crater suspected on elevation NW of dark patch,Moore,blink insid sw floor crater suspect elev nw dark patch,0,-0.1500923962890994,-0.10487247391048979
+1967,Feb,19,Moseley,Moore,B.A.A. Lunar Sec. Circ. 1967,moor,0,-0.11410029397912765,-0.03180090444102367
+1967,Mar,22,Gassendi,Red color and blink,Moseley,red color blink,0,-0.2002631819709223,-0.14593205406694396
+1967,Mar,23,Gassendi,Red color under S wall,Sartory,red color wall,0,-0.054960549156430054,0.006264683390956963
+1967,Mar,23,Cobrahead,Red color outside SE wall,Moore,red color outsid se wall,0,-0.07699149779973019,-0.004253934570323136
+1967,Mar,23,Aristarchus,Red glows,Sartory,red glow,0,-0.19344238852959006,-0.17348264893172635
+1967,Apr,15,Aristarchus (on dark side): 1 hr 45 min,Aristarchus very bright. Seeing very good until 21h00m UT,after which seeing too bad to continue observing. On,aristarchu see good ut,0,-0.11535092963344425,-0.040310430006650376
+1967,Apr,21,Aristarchus: 1 hr 59 min,Bright points on S wall. Red patch to NE,Darnell,bright point red patch ne,0,0.014851274810837138,-0.12716449133551275
+1967,Apr,21,Schroters Valley,Cobrahead,Red color,cobrahead,0,-0.11918551480620103,-0.03551107106624802
+1967,Apr,22,Aristarchus (on bright side),Aristarchus so bright that it could be seen with the naked eye,Classen,aristarchu bright could seen nake eye,0,0.09413462895128136,-0.04662492213397692
+1967,May,20,Aristarchus: 15 min,Red spots on south rim. Moon low,Darnell,red spot south moon low,0,0.049966099561951145,-0.15830621911408452
+1967,May,20,Gassendi,Elongated blink in crater,SW part of floor,elong blink crater,0,-0.14410317303292716,-0.11756925154295297
+1967,May,29,Aristarchus: 45 min,Red-brown color,C.A. Anderson,color,0,-0.15924965874431102,-0.04951706758454329
+1967,Jun,18,Gassendi: 1 hr 20 min and 1 hr 9 min,Faint redness outside the NW and SW wall of Gassendi,Whippey,faint red outsid nw sw wall gassendi,0,-0.07725845149442664,-0.02088468328771867
+1967,Aug,13,Alphonsus: 15 min,Glow in interior of crater,Horowitz,glow interior crater,0,-0.14759656727244674,-0.09976777012048361
+1967,Sep,11,Mare Tranquilitaties: 8-9 sec,Black cloud surrounded by violet color,Montreal group,black cloud surround violet color,0,-0.13727319546544692,0.09992833284741383
+1967,Sep,11,Sabine,Bright yellow flash visible a fraction of a second,Mrs P.Jean and Montreal group,bright yellow flash visibl fraction second,0,0.04629295261743635,-0.042233805070653885
+1967,Sep,17,Aristarchus,Red color observed,Delano,red color observ,0,-0.18579970777204008,-0.12717698184087742
+1967,Oct,10,SE of Ross D,Bright area moved 80 kmhr toward SSE and expanded as contrast reduced,Harris,bright area move kmhr toward sse expand contrast reduc,1,0.026203229819637595,-0.05765240737751748
+1967,Oct,19,Kepler,Aristarchus,High moon,aristarchu,0,-0.11810512439320447,-0.04113377560103759

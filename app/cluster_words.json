@@ -1,0 +1,50 @@
+{
+    "0": [
+        "bright",
+        "glare",
+        "red",
+        "light",
+        "crater",
+        "patch",
+        "blue",
+        "floor",
+        "color",
+        "shadow"
+    ],
+    "1": [
+        "obscur",
+        "area",
+        "bright",
+        "move",
+        "red",
+        "floor",
+        "crater",
+        "complet",
+        "entir",
+        "part"
+    ],
+    "2": [
+        "spot",
+        "bright",
+        "wall",
+        "dark",
+        "like",
+        "light",
+        "crater",
+        "star",
+        "side",
+        "small"
+    ],
+    "3": [
+        "violet",
+        "pale",
+        "dark",
+        "wall",
+        "nimbu",
+        "glare",
+        "whole",
+        "tint",
+        "hue",
+        "plateau"
+    ]
+}
