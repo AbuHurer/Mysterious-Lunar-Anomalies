@@ -88,9 +88,9 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-| PCA Visualization        | Wordcloud & Cluster View            |
-| ------------------------ | ----------------------------------- |
-| ![](assets/pca_view.png) | ![](assets/wordcloud_cluster_0.png) |
+| PCA Visualization        | Wordcloud & Cluster View            | Dataset explorer                 |
+| ------------------------ | ----------------------------------- | -----------------------------    |
+| ![](pca_analysis.png) | ![](assets/wordcloud_cluster_0.png) | ![](dataset explorer.png)
 
 ---
 
