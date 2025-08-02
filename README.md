@@ -2,8 +2,6 @@
 
 A Streamlit-based interactive web application that visualizes, filters, and explores lunar anomalies based on NASA’s R-277 report. This app uses NLP, clustering, PCA, and historical moon mission overlays — all wrapped in a moon/space-themed UI.
 
-![App Screenshot](assets/app_screenshot.png)
-
 ---
 
 ## 🚀 Features
