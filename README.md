@@ -1,7 +1,8 @@
-
 # 🌕 Chronicles of the Moon: Lunar Anomaly Explorer
 
 A Streamlit-based interactive web application that visualizes, filters, and explores lunar anomalies based on NASA’s R-277 report. This app uses NLP, clustering, PCA, and historical moon mission overlays — all wrapped in a moon/space-themed UI.
+
+![App Screenshot](assets/app_screenshot.png)
 
 ---
 
@@ -81,10 +82,17 @@ streamlit run app.py
 ## 📘 Data Source
 
 * 📄 [NASA R-277 Document](https://ntrs.nasa.gov/citations/19710005241)
-* 🗃️ [Cleaned Dataset on Kaggle]((https://www.kaggle.com/datasets/nilimajauhari/500-years-of-mysterious-lunar-anomalies))
+* 🗃️ [Cleaned Dataset on Kaggle (link your own if public)](https://www.kaggle.com/)
 
 ---
 
+## 📸 Screenshots
+
+| PCA Visualization        | Wordcloud & Cluster View            |
+| ------------------------ | ----------------------------------- |
+| ![](assets/pca_view.png) | ![](assets/wordcloud_cluster_0.png) |
+
+---
 
 ## 🛠️ TODO / Extensions
 
@@ -97,7 +105,7 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-**Mohammed Abu Hurer**
+**Abu Hurer**
 Engineering Student in Artificial Intelligence
 Passionate about ML, Vision, and Astronomy 🌌
 
@@ -107,5 +115,6 @@ Passionate about ML, Vision, and Astronomy 🌌
 
 MIT License – feel free to use, share, and expand the Lunar Explorer!
 
+```
 
 ---
