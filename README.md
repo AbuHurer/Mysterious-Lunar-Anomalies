@@ -115,6 +115,4 @@ Passionate about ML, Vision, and Astronomy 🌌
 
 MIT License – feel free to use, share, and expand the Lunar Explorer!
 
-```
-
 ---
